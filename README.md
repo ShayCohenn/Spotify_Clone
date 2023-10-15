@@ -3,7 +3,7 @@
 ## Frameworks used:
 • I used Next.js 13 and React for the project,<br>
 • For the Database I used <a href="https://supabase.com/">supabase</a> which uses PostgreSQL for storing the users and the paths to the images and songs files,<br>
-which I stored in a storage db.<br>
+which I stored in a storage db also in supabase.<br>
 • For the design I used <a href="https://tailwindcss.com/">tailwindcss</a>.<br>
 • For the deployment I used <a href="https://vercel.com/">Vercel</a><br>
 ### <a href="https://spotify-clone-phi-rust.vercel.app/">Live Website</a><br>
