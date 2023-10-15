@@ -8,6 +8,17 @@ which I stored in a storage db.<br>
 • For the deployment I used <a href="https://vercel.com/">Vercel</a><br>
 ### <a href="https://spotify-clone-phi-rust.vercel.app/">Live Website</a><br>
 
+## Features:
+• Create an account - required for listening to the music <br>
+• Upload songs<br>
+• Search songs<br>
+• Like songs<br>
+• Skip forward and backwards<br>
+• Smart player - the player will play all the songs in a playlist for example if you chose a song from a search result it will play all the search results songs or all the liked songs etc...<hr>
+• Your Library displays the songs you've uploaded<br>
+• Newest Songs displays the newest songs uploaded by everyone<br>
+<img src="./screenshot.png" width="1200px">
+
 ## Installation 
 clone the repo
 ```
