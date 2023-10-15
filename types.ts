@@ -5,7 +5,7 @@ export interface Product {
   active?: boolean;
   name?: string;
   description?: string;
-  images?: string;
+  image?: string;
   metadata?: Stripe.Metadata;
 }
 
